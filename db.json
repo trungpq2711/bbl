@@ -1,0 +1,28 @@
+{
+  "bbl": {
+    "requestDate": "2018-12-31",
+    "requestTime": "17:50:50",
+    "cardNetworkPermList": [
+      {
+        "cardNetworkPerm": "01"
+      },
+      {
+        "cardNetworkPerm": "02"
+      }
+    ],
+    "merchantName": "ABC SHOP",
+    "merchantCountry": "TH",
+    "amount": 500,
+    "qrPromptpayInfo": {
+      "billerId": "010555604520711",
+      "reference1": "002123456789001",
+      "reference2": "70012345000000123456"
+    },
+    "qrCardInfo": {
+      "merchantId": "002123456789001",
+      "merchantTransRef": "123456",
+      "terminalId": "70012345"
+    },
+    "extra1": "Remark1"
+  }
+}
